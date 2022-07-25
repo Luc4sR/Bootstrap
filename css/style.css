@@ -27,6 +27,8 @@ img {
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
     max-height: 100px;
     background-color: var(--black);
     color: var(--white-p);
