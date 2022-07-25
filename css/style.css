@@ -33,6 +33,9 @@ header {
     background-color: var(--black);
     color: var(--white-p);
 }
+header a.navlink {
+    color:var(--white-p)!important;
+}
 
 footer {
     background-color: var(--black);
