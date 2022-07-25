@@ -33,8 +33,8 @@ header {
     background-color: var(--black);
     color: var(--white-p);
 }
-header a.navlink {
-    color:#ffffff!important;
+header a.nav-link {
+    color: #ffffff !important;
 }
 
 footer {
