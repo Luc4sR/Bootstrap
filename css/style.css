@@ -34,7 +34,7 @@ header {
     color: var(--white-p);
 }
 header a.navlink {
-    color:var(--white-p)!important;
+    color:#ffffff!important;
 }
 
 footer {
